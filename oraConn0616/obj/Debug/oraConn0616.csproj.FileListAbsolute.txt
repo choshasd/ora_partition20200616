@@ -1,0 +1,7 @@
+D:\seonghocho\C#\20200616\oraConn0616\oraConn0616\bin\Debug\oraConn0616.exe.config
+D:\seonghocho\C#\20200616\oraConn0616\oraConn0616\bin\Debug\oraConn0616.exe
+D:\seonghocho\C#\20200616\oraConn0616\oraConn0616\bin\Debug\oraConn0616.pdb
+D:\seonghocho\C#\20200616\oraConn0616\oraConn0616\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\seonghocho\C#\20200616\oraConn0616\oraConn0616\obj\Debug\oraConn0616.csprojResolveAssemblyReference.cache
+D:\seonghocho\C#\20200616\oraConn0616\oraConn0616\obj\Debug\oraConn0616.exe
+D:\seonghocho\C#\20200616\oraConn0616\oraConn0616\obj\Debug\oraConn0616.pdb
